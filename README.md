@@ -1,3 +1,3 @@
 # hello-world
-just a simple repository
+just a simple file
 This is a change for feature release
